@@ -1,5 +1,7 @@
 {
   "name": "Story app",
   "description": "A multi-functional creative application for chat, video editing, and character creation.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [
+    "microphone"
+  ]
 }
